@@ -1,6 +1,7 @@
 {
-    "version": "1.5.1",
-    "download_url": "https://github.com/JV885/RepairPOS-by-JV/releases/download/v1.5.2/RepairPOS.exe",
-    "sha256": "bda671272ab97ffd69e076de2de00f57e1c001f5915483994a9666fc546e98c6",
-    "release_notes": "• Fixes & Improvements\n• Faster performance\n• Enhanced reliability"
+  "version": "1.5.1",
+  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.1/RepairPOS.exe",
+  "sha256": "feae12904cbb84c298a559904a1b3432ed98a1afdbf53b812e56f61e38a60927",
+  "release_notes": "NA",
+  "released_at": "2026-09-17 00:04:17"
 }
