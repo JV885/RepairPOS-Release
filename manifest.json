@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
-  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.1/RepairPOS.exe",
-  "sha256": "feae12904cbb84c298a559904a1b3432ed98a1afdbf53b812e56f61e38a60927",
-  "release_notes": "NA",
-  "released_at": "2026-09-17 00:04:17"
+  "version": "1.5.2",
+  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.2/RepairPOS.exe",
+  "sha256": "c3be41790694457db8fe642a2e9f8307d603848c8691ad5008d686eda236b88d",
+  "release_notes": "& c:/Users/jvb88/OneDrive/Desktop/ShopManagerV1.0.3/venv/Scripts/python.exe c:/Users/jvb88/OneDrive/Desktop/ShopManagerV1.0.3/update_release.py",
+  "released_at": "2026-09-17 00:22:43"
 }
