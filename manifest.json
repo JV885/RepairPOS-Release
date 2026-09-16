@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
-  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.2/RepairPOS.exe",
-  "sha256": "c3be41790694457db8fe642a2e9f8307d603848c8691ad5008d686eda236b88d",
-  "release_notes": "• Integrated in-app auto-update verification engine",
-  "released_at": "2026-09-17 00:33:25"
+  "version": "1.5.1",
+  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.1/RepairPOS.exe",
+  "sha256": "c7515489aeeb61fd81c79852ef222c2973fca78b1c4a1017ecd426be242e2b1e",
+  "release_notes": "• Release v1.5.1\n• Performance improvements and bug fixes\n• Real-time POS and repair tracking enhancements",
+  "released_at": "2026-09-17 00:37:31"
 }
