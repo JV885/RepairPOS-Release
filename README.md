@@ -4,9 +4,9 @@ Welcome to the official public distribution and update repository for **RepairPO
 
 ---
 
-## 🚀 Latest Version: `v1.5.2`
-* **Released:** September 17, 2026
-* **SHA-256 Checksum (`RepairPOS.exe`):** `a45e0f5417d421fc5065b206afa3da448b0c74ad5c357d5af8cb614ef145c9c8`
+## 🚀 Latest Version: `v2.0.0`
+* **Released:** September 21, 2026
+* **SHA-256 Checksum (`RepairPOS.exe`):** `5ea5fea314f58debf3ce0520500dcb459a6d159c20cf37ce066fd72da58e6ac0`
 
 ---
 
@@ -14,8 +14,8 @@ Welcome to the official public distribution and update repository for **RepairPO
 
 | File | Type | Target Audience | Download Link |
 | :--- | :--- | :--- | :--- |
-| **`RepairPOS_Setup.exe`** | Setup Installer | **New Users** (First-time installation) | [Download Setup Installer](https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.2/RepairPOS_Setup.exe) |
-| **`RepairPOS.exe`** | Application Binary | **In-App Auto-Updater** & Existing Users | [Download Executable](https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.2/RepairPOS.exe) |
+| **`RepairPOS_Setup.exe`** | Setup Installer | **New Users** (First-time installation) | [Download Setup Installer](https://github.com/JV885/RepairPOS-Release/releases/download/v2.0.0/RepairPOS_Setup.exe) |
+| **`RepairPOS.exe`** | Application Binary | **In-App Auto-Updater** & Existing Users | [Download Executable](https://github.com/JV885/RepairPOS-Release/releases/download/v2.0.0/RepairPOS.exe) |
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to the official public distribution and update repository for **RepairPO
 If you already have RepairPOS installed on your computer, you do **not** need to manually download installers:
 1. Launch the RepairPOS desktop application.
 2. The application checks `https://github.com/JV885/RepairPOS-Release/raw/refs/heads/main/manifest.json`.
-3. When `v1.5.2` is detected, click **"Download & Install Update"**.
+3. When `v2.0.0` is detected, click **"Download & Install Update"**.
 4. The application automatically verifies SHA-256 checksums, updates itself, and restarts while preserving your local database.
 
 ---
