@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
-  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v2.0.0/RepairPOS.exe",
-  "sha256": "5ea5fea314f58debf3ce0520500dcb459a6d159c20cf37ce066fd72da58e6ac0",
-  "release_notes": "• Major Release v2.0.0",
-  "released_at": "2026-09-21 09:24:37"
+  "version": "2.1.0",
+  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v2.1.0/RepairPOS.exe",
+  "sha256": "7a991cef58e590fab966612fd2d9fe10a95a549c7a028da9e54f66e025e4b57e",
+  "release_notes": "• Added Windows thermal receipt printing (58mm and 80mm support)",
+  "released_at": "2026-09-25 18:23:16"
 }
