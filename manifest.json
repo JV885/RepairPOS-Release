@@ -1,7 +1,7 @@
-{
-  "version": "2.1.0",
-  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v2.1.0/RepairPOS.exe",
-  "sha256": "7a991cef58e590fab966612fd2d9fe10a95a549c7a028da9e54f66e025e4b57e",
-  "release_notes": "• Release v2.1.0\n• Performance improvements and bug fixes\n• Real-time POS and repair tracking enhancements",
-  "released_at": "2026-09-25 18:23:44"
+﻿{
+  "version": "3.0.0",
+  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v3.0.0/RepairPOS.exe",
+  "sha256": "493deadac55df389fe7ff31380cdb4433412cf8cd1db884844bebd5e4e7598cc",
+  "release_notes": "• Major Release v3.0.0 — Rebuilt with 60 FPS Flutter Desktop Engine\n• Zero-lag virtualized retail catalog & order cart\n• Real-time Smartphone Hardware, LCD, Battery & Bypass Knowledgebase\n• Unified POS & Repair settlement accounting\n• Thermal paper style receipt popup with 180-day unclaimed device policy\n• Vector PDF & Daylight PNG audit report exports\n• Cloudflare D1 real-time sync & automatic 180-day ticket archiving\n• Full technician management & individual transaction ledger deletion",
+  "released_at": "2026-10-28 21:09:45"
 }
