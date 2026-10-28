@@ -17,7 +17,7 @@
 
 | Package | Type | Intended Audience | Direct Download |
 | :--- | :--- | :--- | :--- |
-| **RepairPOS_Setup.exe** | **Windows Setup Wizard** | **New Users** (First-time installation) | [🔗 **Download Setup Installer**](https://github.com/JV885/RepairPOS-Release/releases/download/v1.5.1/RepairPOS_Setup.exe) |
+| **RepairPOS_Setup.exe** | **Windows Setup Wizard** | **New Users** (First-time installation) | [🔗 **Download Setup Installer**](https://github.com/JV885/RepairPOS-Release/releases/download/v3.0.0/RepairPOS_Setup.exe) |
 | **RepairPOS.exe** | **v3.0.0 Application Binary** | **Existing Users** & Standalone Portable | [⚡ **Download v3.0.0 Executable**](https://github.com/JV885/RepairPOS-Release/releases/download/v3.0.0/RepairPOS.exe) |
 
 ---
