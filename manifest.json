@@ -1,7 +1,7 @@
 ﻿{
-  "version": "3.0.0",
-  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v3.0.0/RepairPOS.exe",
-  "sha256": "493deadac55df389fe7ff31380cdb4433412cf8cd1db884844bebd5e4e7598cc",
-  "release_notes": "• Major Release v3.0.0 — Rebuilt with 60 FPS Flutter Desktop Engine\n• Zero-lag virtualized retail catalog & order cart\n• Real-time Smartphone Hardware, LCD, Battery & Bypass Knowledgebase\n• Unified POS & Repair settlement accounting\n• Thermal paper style receipt popup with 180-day unclaimed device policy\n• Vector PDF & Daylight PNG audit report exports\n• Cloudflare D1 real-time sync & automatic 180-day ticket archiving\n• Full technician management & individual transaction ledger deletion",
-  "released_at": "2026-10-28 21:09:45"
+  "version": "3.1.0",
+  "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v3.1.0/RepairPOS_v3.1.0.exe",
+  "sha256": "03980ccabd69e6aa0f2e2c86d312ecf4528756d19996902550d49ad7c94d5f81",
+  "release_notes": "• Release v3.1.0 — Multi-Computer Cloud Vault & Reporting Upgrades\n• Added Cloud Account Vault: Auto-syncs shop catalog and tickets across computers upon login\n• Added direct-to-disk Vector PDF & high-contrast Daylight PNG report exports\n• Added individual transaction deletion with automatic inventory stock return\n• Added full ticket specification editing and ticket deletion in workbench\n• Added automated 180-day ticket lifecycle purge on startup\n• Added editable 180-day unclaimed device policy & warranty in settings\n• Fixed date comparison bug and eliminated double-counted transactions in ledger",
+  "released_at": "2026-11-08 22:12:13"
 }
