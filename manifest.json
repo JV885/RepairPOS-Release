@@ -1,7 +1,7 @@
 ﻿{
   "version": "3.1.0",
   "download_url": "https://github.com/JV885/RepairPOS-Release/releases/download/v3.1.0/RepairPOS_Setup_v3.1.0.exe",
-  "sha256": "92976d2839db5d8510258c51dfa4aba8feb960373b2909c69cb6c7119f129036",
+  "sha256": "a153afebbb392e0ff1263500deabfc6eaa31b4c8361e202020c3a1b5d3978775",
   "release_notes": "• Release v3.1.0 — Multi-Computer Cloud Vault & Reporting Upgrades\n• Added Cloud Account Vault: Auto-syncs shop catalog and tickets across computers upon login\n• Added direct-to-disk Vector PDF & high-contrast Daylight PNG report exports\n• Added individual transaction deletion with automatic inventory stock return\n• Added full ticket specification editing and ticket deletion in workbench\n• Added automated 180-day ticket lifecycle purge on startup\n• Added editable 180-day unclaimed device policy & warranty in settings\n• Fixed date comparison bug and eliminated double-counted transactions in ledger",
-  "released_at": "2026-11-08 22:29:39"
+  "released_at": "2026-11-08 22:40:07"
 }
